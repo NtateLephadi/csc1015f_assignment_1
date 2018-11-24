@@ -1,0 +1,2 @@
+# csc1015f_assignment_1
+This assignment involves constructing Python programs that use input and output statements, 'if' and 'if-else' control flow statements, and statements that perform numerical manipulation. You may need to use additional attributes of the print statement that control what is printed at the end of each print statement (end="\n") and separating each value in a list of values (sep=" "). For example: print ("a","b","c") displays "a b c" print ("a","b","c", sep="|") displays "a|b|c"
